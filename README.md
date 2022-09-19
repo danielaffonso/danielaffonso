@@ -1,11 +1,10 @@
 ### Olá. Eu sou o Daniel Affonso.
-
 Consultor na Logicalis com trajetória em empresas de diferentes segmentos de mercado — Estácio, Accenture, Indra e B2W —, tendo como destaque atuação em equipes de Business Intelligence e Analytics. Profissional com experiência envolvendo análise de dados, amplificando a capacidade de equipes em acompanhamentos de metas e resultados de operações e projetos — utilizando o T-SQL, Power BI, Excel, Power Query e DAX na elaboração de visualização de dados, relatórios e análises. Graduado em Administração pela UNESA — cursando Análise e Desenvolvimento de Sistemas pela UNESA —, Scrum Master certificado pela Scrum.org e Microsoft Office Specialist: Excel Expert.
 ##
 
 <div align="left">
   <a href="https://github.com/danielaffonso">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=danielaffonso&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=danielaffonso&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <!-- <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielaffonso&layout=compact&langs_count=7&theme=dark"/> -->
 </div>
 
