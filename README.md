@@ -10,6 +10,7 @@
   <img align="center" alt="Daniel-TSQL" height="30" width="30" src="https://hackr.io/tutorials/learn-sql-server/logo/logo-sql-server?ver=1557508629">
   <img align="center" alt="Daniel-PBI" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png">
   <img align="center" alt="Daniel-Excel" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/1200px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png">
+  <img align="center" alt="Daniel-Excel" height="30" width="30" src="https://www.ambient-it.net/wp-content/uploads/2016/04/vba-logo-175.png">
 </div>
   
 ##
